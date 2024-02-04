@@ -37,17 +37,12 @@ function rozwiazanie()
     {
         osoba = {wiek: uczen.wiek - 1, imie: uczen.imie + " Zenon"};
         uczniowedododania.push(osoba);
-
-        
-        
-
     }
+
+    
     for(const uczen of uczniowedododania)
     {
         uczniowe.push(uczen);
-
-        
-
     }
 }
 
